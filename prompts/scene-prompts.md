@@ -2,12 +2,6 @@
 
 Every generation prompt used, in edit order.
 
-## Start card — "A Choice of Roles"
-
-(Prompt file not preserved for this scene — see notes below.)
-
----
-
 ## Meldan street
 
 1. Meldan street — establish Veridia

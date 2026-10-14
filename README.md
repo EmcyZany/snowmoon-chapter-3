@@ -6,7 +6,7 @@ Gladias walks through Meldan to a quiet booth in Greater Plum Harbor, where a st
 
 ## What's in this repo
 
-- `scenes/` — one folder per scene: 28 scenes, 7 inserts, and the start card. Each folder has a `SCENE.md` with the generation prompt, the dialogue, and edit-placement notes. Upload the final video take as `clip.mp4` in its folder.
+- `scenes/` — one folder per scene: 28 scenes and 7 inserts. Each folder has a `SCENE.md` with the generation prompt, the dialogue, and edit-placement notes. Upload the final video take as `clip.mp4` in its folder.
 - `prompts/` — every generation prompt used, the shared visual-continuity block, and the cast/environment reference prompts.
 - `dialogue/` — the full dialogue script in edit order.
 - `docs/` — the CapCut assembly sheet, voice guide, workflow notes, and the tools/models used.

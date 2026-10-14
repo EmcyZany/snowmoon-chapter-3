@@ -4,7 +4,6 @@ Edit order — use the final takes. In this repo each scene folder holds a `SCEN
 
 | # | Scene | Clip file | Notes |
 |---|-------|-----------|-------|
-| start-card | Start card — "A Choice of Roles" | `scenes/start-card/clip.mp4` | Opening card. 4s trim (3.0–7.0s of the 10s source). Narration ("Snowmoon presents Chapter 3: A Choice of Roles.") was delivered as a separate MP3 for CapCut placement; center of frame kept clear for title text. |
 | scene01 | Meldan street | `scenes/scene01/clip.mp4` | Main timeline, first scene. |
 | scene02 | Into the tunnel | `scenes/scene02/clip.mp4` | Main timeline, after Scene 1. |
 | scene03 | The Arctic poster | `scenes/scene03/clip.mp4` | Main timeline, after Scene 2. |
@@ -53,7 +52,6 @@ Edit order — use the final takes. In this repo each scene folder holds a `SCEN
 
 ## CapCut overlays (text added in the edit, never generated)
 
-- Start card: SNOWMOON PRESENTS / A CHAPTER 3 ADAPTATION / A CHOICE OF ROLES (center kept clear).
 - Scene 12: virtue poster text; Hydrafill text revealed line by line.
 - Scene 28: the "Gladias · Mov" watch screen.
 

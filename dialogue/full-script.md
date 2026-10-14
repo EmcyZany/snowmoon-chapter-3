@@ -2,10 +2,6 @@
 
 In edit order. Each line is performed only by the named character, sequentially, with no overlap.
 
-## Start card — "A Choice of Roles"
-
-(no dialogue)
-
 ## Meldan street
 
 (no dialogue)
