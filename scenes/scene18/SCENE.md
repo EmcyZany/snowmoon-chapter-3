@@ -15,3 +15,7 @@ Visual continuity for this Snowmoon Chapter 3 adaptation: cinematic grounded sci
 
 Received via side chat 2026-10-09 07:27 WAT. User named the required assets (Gladias, GPH interior, robed crowd extras sheet). No actual extras sheet file arrived with the message and none exists in the workspace, so the robed crowd is generated from the prompt (same approach as the two men in Scene 14). The parenthetical "(The watch screen with CO2/PM2.5 numbers)" describes the watch readout content: CO2 965, PM2.5 22.1, Attested 55, Unknown 6. The on-screen readout was NOT marked CapCut, so per the Scenes 13-14 precedent the assistant composites it directly onto the watch close-up in post. The generated footage keeps the watch screen BLANK/abstract (no generator text); the exact data is composited afterward. Gladias's line is V.O. (quiet, calm mid-range male; forward voice target is the Scene 5 v3 baked-in voice). Watch stays on the LEFT wrist. Continuity from Scene 17's ending.
 
+
+## Production correction (2026-10-15)
+
+The original production guide specifies the watch readout as a CapCut overlay ("On-screen (CapCut): CO₂ 965 · PM2.5 22.1 · Attested ✓ 55 · Unknown ? 6"). In the final published take the readout panel is composited directly into the video file instead — `clip.mp4` already contains it. No CapCut overlay is needed for this scene.

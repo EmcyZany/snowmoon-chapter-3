@@ -14,3 +14,7 @@ Visual continuity for this Snowmoon Chapter 3 adaptation: cinematic grounded sci
 
 Received via side chat 2026-10-09 02:10 WAT. User named the required assets (Gladias, Greater Plum Harbor exterior wall). CRITICAL: the GPH Public Activities menu is added by the user in CapCut — the generated video must NOT render any menu, text, or UI words. The poster stays BLANK; its corner carries only an abstract geometric barcode-like graphic (no readable text); the watch shows an abstract scan glow only. Gladias has no dialogue. Lock-in ritual honored from the locked real images: scenes/scene-6/inputs/gladias-real.jpg, environments/greater-plum-harbor-exterior-wall.jpg. Continuity from Scene 12 v3's ending.
 
+
+## Production correction (2026-10-15)
+
+The original production guide specifies the GPH Public Activities menu as a CapCut overlay ("On-screen (CapCut): the GPH Public Activities menu — Environment, Health, medicine, Education, Art, "open source" note, Quadratic Funding footer"). In the final published take the menu card is composited directly into the video file instead — `clip.mp4` already contains it. No CapCut overlay is needed for this scene.

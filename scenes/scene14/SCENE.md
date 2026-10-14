@@ -17,3 +17,7 @@ Visual continuity for this Snowmoon Chapter 3 adaptation: cinematic grounded sci
 
 Received via side chat 2026-10-09 02:20 WAT. User named the required assets (Gladias; two-men-on-bench extras sheet — no such sheet exists, so the two men were generated from the prompt alone per the established pattern; GPH exterior wall). The on-screen reply card was NOT marked CapCut this time — following the Scene 13 precedent, the assistant composites it directly: the generated video stays text-free, then Emerald's reply card ("Sales tax ~5.2% · Land tax 1.48% · Graph & Quadratic Funding recover roughly half.") fades in after Gladias's whisper. Lock-in ritual honored from the locked real images: scenes/scene-6/inputs/gladias-real.jpg, environments/greater-plum-harbor-exterior-wall.jpg. Continuity from Scene 13's ending.
 
+
+## Production correction (2026-10-15)
+
+The original production guide specifies Emerald's reply card as a CapCut overlay ("On-screen (CapCut): Emerald's reply card — "Sales tax ~5.2% · Land tax 1.48% · Graph & Quadratic Funding recover roughly half."). In the final published take the card is composited directly into the video file instead — `clip.mp4` already contains it. No CapCut overlay is needed for this scene.
